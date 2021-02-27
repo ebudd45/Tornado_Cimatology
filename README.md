@@ -7,4 +7,4 @@ Soil Moisture: https://psl.noaa.gov/data/gridded/data.cpcsoil.html
 CAPE: https://psl.noaa.gov/data/gridded/data.20thC_ReanV2c.monolevel.mm.html           
 Tornado Reports: https://www.spc.noaa.gov/gis/svrgis/
 
-Project seeks to understand the spatial and quanatative relationship between soil moisture and severe weather, specifically tornados.
+Project seeks to understand the spatial and quanatative relationship between soil moisture and severe weather, specifically tornados. Use of Python through Jupyter Notebooks and GIS analysis through ArcGIS pro will be made to analyze data.
